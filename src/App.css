@@ -53,6 +53,16 @@ body{
 
 
 /* ===============End of card =============================== */
+.overflow{
+    /* white-space: nowrap; */
+    /* overflow: hidden; */
+    text-overflow: ellipsis;
+    color: #000;
+    font-weight: bold;
+}
+.card-hover:hover{
+    transform: scale(1.1);
+}
 
 /* ==============================contact us ==================== */
 
@@ -68,4 +78,18 @@ body{
 .bannerss{
   margin-left:80px;  
 }
+.Team {
+    padding:100px;
+    color:black;
+    
+    align-items: center;
+    min-height:1000px;
+
+}
+
+.cards{
+
+    justify-content: center;
+}
+
 

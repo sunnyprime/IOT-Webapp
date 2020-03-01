@@ -19,7 +19,7 @@ function App() {
        <Ab />
        {/* <Team /> */}
        <Product />
-       {/* <Team /> */}
+       <Team />
        <Footer />
     </div>
   );
