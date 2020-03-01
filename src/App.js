@@ -5,6 +5,9 @@ import Hero from './Pages/Hero';
 import Service from './Pages/Service';
 import Footer from './Pages/Footer';
 import Product from './Pages/Product';
+import Team from './Pages/Team';
+import Easy from './Pages/Easy';
+import Ab from './Pages/Ab';
 
 function App() {
   return (
@@ -12,7 +15,11 @@ function App() {
        <Navbar />
        <Hero />
        <Service />
+       <Easy />
+       <Ab />
+       {/* <Team /> */}
        <Product />
+       {/* <Team /> */}
        <Footer />
     </div>
   );
