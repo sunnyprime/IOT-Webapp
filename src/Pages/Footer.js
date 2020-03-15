@@ -20,7 +20,7 @@ export default function Footer() {
                     <div class="footer-address">
                         <p>Address :E-Clan,India</p>
                         <span>Phone : +91 8109612733</span>
-                        <span>Email : eclan@eclan.com</span>
+                        <span>Email : eclan4you@gmail.com</span>
                     </div>
                 </div>
 
