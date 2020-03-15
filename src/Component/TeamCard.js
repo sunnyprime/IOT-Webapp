@@ -7,7 +7,7 @@ export default function TeamCard() {
 role:"Founder and CEO"},
 {name:"Vivek Kumar",
 img:"https://lh3.googleusercontent.com/a-/AOh14Gj6obKto__B084U4gdHoVnadIPSSgB2npuZYJZn",
-role:"Co-Founder and Senior IoT Developer"},
+role:"Co-Founder and Chief Technology Officer"},
 
 {name:"Suyash Kumar",
 img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Suvesh.jpeg?raw=true",
@@ -26,7 +26,17 @@ img:"https://oc.ocstatic.com/images/favicon/android-chrome-512x512.png",
 role:"Head of Hardware Engineering"},
 {name:"Tarun Thotakura",
 img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Tarun.jpeg?raw=true",
-role:"Head of Hardware Engineering with Python and Machine Learning"}
+role:"Head of Hardware Engineering with Python and Machine Learning"},
+{name:"Pratyush Prakash",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Pratyush_Prakash.jpeg?raw=true",
+role:"Digital Marketing Analyst"},
+{name:"Shreejith",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Shrejit.jpeg?raw=true",
+role:"Head of Embedded Engineering ( Hardware and Software)"},
+{name:"Papun Kumar",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Papun.jpeg?raw=true",
+role:"Head Automation Tester "}
+
 
 ]
     return (

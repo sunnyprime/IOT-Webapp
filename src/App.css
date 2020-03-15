@@ -104,5 +104,21 @@ body{
 
     justify-content: center;
 }
-
+/* ========================================================= */
+.Client {
+    padding:80px 50px;
+    color: #FFF;
+    min-height:1000px;
+    background: #06F;
+    text-align: center;
+}
+.client_img{
+    max-width: 300px;
+    max-height:200px;
+    margin: 100px;
+}
+.client_img:hover{
+    size: 120%;
+    
+}
 

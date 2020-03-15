@@ -9,6 +9,7 @@ import Team from './Pages/Team';
 import Easy from './Pages/Easy';
 import Ab from './Pages/Ab';
 import {auth} from './Firebase/firebase.utils'
+import Client from './Pages/Client';
 // const signed = true
 // console.log(auth.currentUser);
 // if(auth.currentUser){
@@ -27,6 +28,7 @@ function App() {
        <Ab />
        <Product />
        <Team />
+       <Client />
        <Footer />
     </div>
   );
