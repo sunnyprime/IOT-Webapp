@@ -7,6 +7,7 @@
 
 body{
     /* font-family: "ZCOOL"; */
+    
 }
 
 .navback{
@@ -90,6 +91,7 @@ body{
 /* =========================banner ========================== */
 .bannerss{
   margin-left:80px;  
+  text-shadow: 4px 4px 8px #000000;
 }
 .Team {
     padding:100px;

@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Team.css"
+// import "./Team.css"
 import TeamCard from '../Component/TeamCard'
 
 

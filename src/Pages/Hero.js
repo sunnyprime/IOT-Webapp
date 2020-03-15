@@ -10,7 +10,7 @@ export default function Hero() {
                 <div className="row">
                     <div className="col-lg-6 offset-lg-6 col-xl-5 offset-xl-7">
                         <div className="banner_content bannerss">
-                            <h3>Build a better Technology<br/>Smoother & faster</h3>
+                            <h3>E-CLAN<br/>Build a better Technology</h3>
                             <p style={{fontSize:"18px"}}>We are primarily focused on developing IoT products and Web development for smart city application, home and building automation, township monitoring, security systems and agricultural innovation.</p>
                             
                         </div>
