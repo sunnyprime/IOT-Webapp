@@ -8,6 +8,14 @@ import Product from './Pages/Product';
 import Team from './Pages/Team';
 import Easy from './Pages/Easy';
 import Ab from './Pages/Ab';
+import {auth} from './Firebase/firebase.utils'
+// const signed = true
+// console.log(auth.currentUser);
+// if(auth.currentUser){
+//   console.log("User Active");
+  
+// }
+
 
 function App() {
   return (
