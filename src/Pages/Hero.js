@@ -12,7 +12,7 @@ export default function Hero() {
                         <div className="banner_content bannerss">
                             <h3>Build a better<br/>business & faster</h3>
                             <p>Subdue creature does face signs evening good sixth foreign gaered one. Fruit. Third every fruitful multiply subdue creature doesn't face signs evening good sixth tyou're.</p>
-                            <a className="banner_btn" href="#">Begin Free Trial<i className="ti-arrow-right"></i></a>
+                            
                         </div>
                     </div>
 
