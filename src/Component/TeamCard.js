@@ -7,9 +7,9 @@ export default function TeamCard() {
 role:"Founder and CEO"},
 {name:"Vivek Kumar",
 img:"https://lh3.googleusercontent.com/a-/AOh14Gj6obKto__B084U4gdHoVnadIPSSgB2npuZYJZn",
-role:"Co-Founder"},
+role:"Co-Founder and Senior IoT Developer"},
 
-{name:"Suyesh",
+{name:"Suyash Kumar",
 img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Suvesh.jpeg?raw=true",
 role:"Dotnet and React/ Angular Developer"},
 {name:"Dibyanshu Kumar",
@@ -26,7 +26,8 @@ img:"https://oc.ocstatic.com/images/favicon/android-chrome-512x512.png",
 role:"Head of Hardware Engineering"},
 {name:"Tarun Thotakura",
 img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Tarun.jpeg?raw=true",
-role:"Head of Hardware Engineering"}
+role:"Head of Hardware Engineering with Python and Machine Learning"}
+
 ]
     return (
         <div>

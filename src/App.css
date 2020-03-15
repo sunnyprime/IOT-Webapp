@@ -28,6 +28,8 @@ body{
     max-height: 600px;
     min-width: 200px;
     margin: 100px;
+    align-self: center;
+    text-align: center;
 }
 .card .header {
     background: rgb(87, 87, 87);
@@ -55,6 +57,11 @@ body{
 .card-img-top {
     max-height:200px;
     max-width: 250px;
+    position: relative;
+    /* width: 200px; */
+    /* height: 200px; */
+    overflow: hidden;
+    
 }
 
 
