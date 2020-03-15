@@ -4,13 +4,29 @@ export default function TeamCard() {
   const team = [
     {name:"Ashish",
     img:"https://avatars2.githubusercontent.com/u/32286384?s=460&u=3f70362c62c167a15aa1eb8c359f5be0bda4ade1&v=4",
-role:"Backend developer with IoT"},
+role:"Founder and CEO"},
 {name:"Vivek Kumar",
 img:"https://lh3.googleusercontent.com/a-/AOh14Gj6obKto__B084U4gdHoVnadIPSSgB2npuZYJZn",
-role:"Frontend developer with IoT"},
+role:"Co-Founder"},
+
 {name:"Suyesh",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Suvesh.jpeg?raw=true",
+role:"Dotnet and React/ Angular Developer"},
+{name:"Dibyanshu Kumar",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Dibyanshu.jpeg?raw=true",
+role:"Head of Embedded"},
+{name:"Rajkumar Prajapati",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/rajkumar.jpeg?raw=true",
+role:"Head of Web Development"},
+{name:"Supriya Choudhary",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Supriya.jpeg?raw=true",
+role:"Software Consultant Java"},
+{name:"Shreejith Kumar",
 img:"https://oc.ocstatic.com/images/favicon/android-chrome-512x512.png",
-role:"Dotnet developer"}
+role:"Head of Hardware Engineering"},
+{name:"Tarun Thotakura",
+img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Tarun.jpeg?raw=true",
+role:"Head of Hardware Engineering"}
 ]
     return (
         <div>

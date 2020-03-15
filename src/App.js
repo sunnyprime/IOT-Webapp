@@ -25,7 +25,6 @@ function App() {
        <Service />
        <Easy />
        <Ab />
-       {/* <Team /> */}
        <Product />
        <Team />
        <Footer />

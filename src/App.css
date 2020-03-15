@@ -26,6 +26,7 @@ body{
 .card{
     max-width: 250px;
     max-height: 600px;
+    min-width: 200px;
     margin: 100px;
 }
 .card .header {
@@ -49,6 +50,11 @@ body{
 }
 .card p {
     text-size-adjust: auto;
+}
+
+.card-img-top {
+    max-height:200px;
+    max-width: 250px;
 }
 
 
