@@ -11,7 +11,7 @@ role:"Co-Founder and Chief Technology Officer"},
 
 {name:"Suyash Kumar",
 img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Suvesh.jpeg?raw=true",
-role:"Dotnet and React/ Angular Developer"},
+role:"Dotnet and FullStack Developer"},
 {name:"Dibyanshu Kumar",
 img:"https://github.com/sunnyprime/IOT-Webapp/blob/master/src/Images/Dibyanshu.jpeg?raw=true",
 role:"Head of Embedded"},
